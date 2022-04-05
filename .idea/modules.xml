@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NFC_and_QR_shop.iml" filepath="$PROJECT_DIR$/.idea/modules/NFC_and_QR_shop.iml" group="NFC_and_QR_shop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="NFC_and_QR_shop/app" />
+    </modules>
+  </component>
+</project>
